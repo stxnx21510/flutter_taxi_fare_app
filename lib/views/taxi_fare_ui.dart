@@ -95,7 +95,7 @@ class _TaxiFareUIState extends State<TaxiFareUI> {
                     style: TextStyle(
                       fontSize: 15.0,
                       fontWeight: FontWeight.bold,
-                      color: const Color.fromARGB(255, 0, 0, 0),
+                      color: Colors.black,
                     ),
                   ),
                 ),
